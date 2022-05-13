@@ -1048,3 +1048,16 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.contato{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.localizacao {
+  float:left;
+}
+
+.email {
+  float:right;
+}
